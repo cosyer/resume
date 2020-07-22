@@ -1,5 +1,5 @@
-$(function() {
-  $("#close").click(function() {
+$(function () {
+  $("#close").click(function () {
     if (window.confirm("没有保存，确定关闭吗？")) {
       var nvua = navigator.userAgent;
       if (nvua.indexOf("MSIE") >= 0) {
@@ -18,14 +18,11 @@ $(function() {
   var $code = $("code#code");
   var $lineNum = $("#line-num");
   var $colNum = $("#col-num");
-  var commentLineNum =
-    $("code#comment")
-      .text()
-      .match(/\n/g).length + 3;
+  var commentLineNum = $("code#comment").text().match(/\n/g).length + 3;
   var codeText = hljs.highlightAuto($code.text()).value;
   var cursor = '<span id="cursor">';
   $code.html(cursor);
-  $(window).scroll(function() {
+  $(window).scroll(function () {
     $scroll = $(this).scrollTop();
     if ($scroll < 4000) {
       $code.html(codeText.substring(0, Math.round($scroll / 6)) + cursor);
@@ -43,8 +40,8 @@ $(function() {
     j = 0;
   var menu = ["about", "skills", "works", "contact"];
   var offsets = [];
-  var set = function(to, offset) {
-    $("a[href^=#" + to + "]").click(function() {
+  var set = function (to, offset) {
+    $("a[href^=#" + to + "]").click(function () {
       $("html,body").animate({ scrollTop: offset }, 1000);
       return false;
     });
