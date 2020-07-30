@@ -125,13 +125,15 @@
 
 - 封装typeingcard打字效果组件、图片全屏预览、微信小程序setData()
 
-- 虚拟列表优化长列表、时间戳优化去缓存、http2推送、for in、v-if、key、滚动条、封面放大蒙层、input file/placeholder优化、重复率分析
+- 虚拟列表优化长列表、时间戳优化去缓存、http2推送、for in for语句优化、v-if、key、滚动条、封面放大蒙层、input file/placeholder优化、重复率分析、尾调用优化、v-clock
 
 - vue-cli、create-react-app、serverless、bff、webassembly、less/sass、immutable、promise精妙的封装、mvvm、monment、jenkins、flex、docker、postman
 
 - 特性白名单、snipaste、fscapture
 
 - 体系map、图书管理采购、mixins公共的分页
+
+- ios键盘遮挡、ios自动播放、横竖屏固定
 
 ## 工具
 短命令行工具、自动化上传部署、i18n词条翻译、eslint校验目录格式、chrome插件、模板编译、axios封装、npm插件发布、markdown编译工具、vscode插件
