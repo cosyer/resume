@@ -128,7 +128,8 @@
 
 - 封装typeingcard打字效果组件、图片全屏预览、微信小程序setData()
 
-- 虚拟列表优化长列表、时间戳优化去缓存、http2推送、for in for语句优化、v-if、key、滚动条、封面放大蒙层、input file/placeholder优化、重复率分析、尾调用优化、v-clock
+- 虚拟列表优化长列表、时间戳优化去缓存、http2推送、for in for语句优化、v-if、key、滚动条、封面放大蒙层、input file/placeholder优化、重复率分析、尾调用优化、v-clock、input实时搜索、多次
+点击
 
 - vue-cli、create-react-app、serverless、bff、webassembly、less/sass、immutable、promise精妙的封装、mvvm、monment、jenkins、flex、docker、postman
 
