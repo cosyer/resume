@@ -129,7 +129,7 @@
 - 封装typeingcard打字效果组件、图片全屏预览、微信小程序setData()
 
 - 虚拟列表优化长列表、时间戳优化去缓存、http2推送、for in for语句优化、v-if、key、滚动条、封面放大蒙层、input file/placeholder优化、重复率分析、尾调用优化、v-clock、input实时搜索、多次
-点击
+点击、inline-block间隔、toFixed修复
 
 - vue-cli、create-react-app、serverless、bff、webassembly、less/sass、immutable、promise精妙的封装、mvvm、monment、jenkins、flex、docker、postman
 
@@ -163,7 +163,7 @@
 做事积极，待人真诚，注重团队协作；沉静，认真而严谨；热爱互联网，对编程有浓厚的兴趣；
 代码强迫症患者，同时也是一名一万小时定律的践行者；坚持持续学习并不断进行知识的沉淀和迭代。
 
-面试官你好，我叫陈宇，就职于xxx，我主要的技术栈是react和vue，目前主要负责公司私有云系统的前端开发工作。之前主要做的是华为odc的外派工作，主要做dds文档数据库、geminidb多模nosql数据库console
+面试官你好，我叫陈宇，17年毕业目前就职于xxx，我主要的技术栈是react和vue，目前主要负责公司私有云业务系统平台的前端开发工作。之前主要做的是华为odc的外派工作，主要做dds文档数据库、geminidb多模nosql数据库console
 控制台系统的开发维护。
 
 写代码的不断拓宽拓深自己的技术栈，后续能做到在某一领域的专精，对这块的业务非常熟悉。在做好业务工作的同时不断锻炼综合能力（逻辑思维、沟通表达、自我管
@@ -175,7 +175,7 @@
 - 行业 - 可能性
 
 1. 疫情降薪 工资组成结构
-2. 传统IT公司 对日项目 业务面窄
+2. 传统IT公司 对日项目 业务面窄 互联网公司
 3. 更好更大的发展空间和平台
 
 1万小时的锤炼是任何人从平凡变成世界级大师的必要条件 - 格拉德威尔《异类》
